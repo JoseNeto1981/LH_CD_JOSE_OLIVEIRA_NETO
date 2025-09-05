@@ -8,14 +8,14 @@ Este repositório contém a resolução do desafio de Ciência de Dados, envolve
 - Salvamento do modelo final em formato `.pkl`.
 
 ## 📂 Estrutura do Repositório
-´´´
+```
 ├── desafio_indicium_imdb.csv # Base de dados utilizada
 ├── eda_modelagem.ipynb # Notebook com análise, EDA e modelagem
 ├── models/
 │ └── modelo.pkl # Modelo treinado salvo
 ├── requirements.txt # Dependências do projeto
 └── README.md # Documentação do repositório
-´´´
+```
 
 ## ⚙️ Como executar o projeto
 
